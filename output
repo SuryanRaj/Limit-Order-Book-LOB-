@@ -1,0 +1,83 @@
+INITIALIZING HIGH-FREQUENCY TRADING SIMULATION...
+
+[MATCH] Trade Executed: 10 shares at $148.19
+[MATCH] Trade Executed: 40 shares at $148.24
+[MATCH] Trade Executed: 40 shares at $147.75
+[MATCH] Trade Executed: 30 shares at $148.24
+[MATCH] Trade Executed: 20 shares at $148.90
+[MATCH] Trade Executed: 10 shares at $148.90
+[MATCH] Trade Executed: 70 shares at $148.90
+[MATCH] Trade Executed: 20 shares at $148.95
+[MATCH] Trade Executed: 50 shares at $147.75
+[MATCH] Trade Executed: 20 shares at $148.95
+[MATCH] Trade Executed: 10 shares at $149.10
+[MATCH] Trade Executed: 30 shares at $149.10
+[MATCH] Trade Executed: 20 shares at $148.49
+[MATCH] Trade Executed: 10 shares at $149.10
+[MATCH] Trade Executed: 20 shares at $149.88
+[MATCH] Trade Executed: 10 shares at $150.18
+[MATCH] Trade Executed: 10 shares at $150.38
+[MATCH] Trade Executed: 10 shares at $147.75
+[MATCH] Trade Executed: 10 shares at $147.32
+[MATCH] Trade Executed: 60 shares at $146.99
+[MATCH] Trade Executed: 40 shares at $149.62
+[MATCH] Trade Executed: 60 shares at $149.43
+[MATCH] Trade Executed: 40 shares at $150.38
+[MATCH] Trade Executed: 30 shares at $150.65
+[MATCH] Trade Executed: 30 shares at $149.43
+[MATCH] Trade Executed: 30 shares at $148.99
+[MATCH] Trade Executed: 30 shares at $147.54
+[MATCH] Trade Executed: 40 shares at $149.83
+[MATCH] Trade Executed: 50 shares at $149.83
+[MATCH] Trade Executed: 30 shares at $150.65
+[MATCH] Trade Executed: 20 shares at $146.62
+[MATCH] Trade Executed: 40 shares at $146.42
+[MATCH] Trade Executed: 10 shares at $146.62
+[MATCH] Trade Executed: 20 shares at $146.62
+[MATCH] Trade Executed: 30 shares at $146.92
+[MATCH] Trade Executed: 20 shares at $148.87
+[MATCH] Trade Executed: 20 shares at $149.49
+[MATCH] Trade Executed: 10 shares at $149.14
+[MATCH] Trade Executed: 20 shares at $148.36
+[MATCH] Trade Executed: 30 shares at $148.33
+[MATCH] Trade Executed: 20 shares at $147.52
+[MATCH] Trade Executed: 50 shares at $147.52
+[MATCH] Trade Executed: 20 shares at $148.33
+[MATCH] Trade Executed: 10 shares at $149.49
+[MATCH] Trade Executed: 30 shares at $149.49
+[MATCH] Trade Executed: 20 shares at $149.49
+[MATCH] Trade Executed: 40 shares at $149.55
+[MATCH] Trade Executed: 40 shares at $149.71
+[MATCH] Trade Executed: 20 shares at $149.71
+[MATCH] Trade Executed: 80 shares at $149.76
+
+=======================================
+   NASDAQ C++ LIMIT ORDER BOOK (LOB)   
+=======================================
+  [ASKS] - Sellers
+  $155.48  | Vol: 40
+  $154.77  | Vol: 40
+  $153.56  | Vol: 70
+  $152.70  | Vol: 90
+  $152.18  | Vol: 20
+  $152.11  | Vol: 50
+  $151.87  | Vol: 100
+  $151.69  | Vol: 10
+  $151.04  | Vol: 50
+  $150.98  | Vol: 30
+  $150.88  | Vol: 50
+  $150.83  | Vol: 60
+  $150.73  | Vol: 50
+  $150.65  | Vol: 30
+  $150.34  | Vol: 40
+  $150.27  | Vol: 100
+  $150.11  | Vol: 80
+  $149.89  | Vol: 20
+  $149.76  | Vol: 20
+---------------------------------------
+  [BIDS] - Buyers
+  $149.26  | Vol: 70
+  $147.90  | Vol: 20
+  $146.79  | Vol: 10
+  $146.73  | Vol: 90
+=======================================
